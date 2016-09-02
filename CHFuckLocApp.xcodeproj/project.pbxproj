@@ -7,22 +7,28 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0438C88B1D77B856004278A2 /* CHButton.h in Headers */ = {isa = PBXBuildFile; fileRef = 0438C8891D77B856004278A2 /* CHButton.h */; };
+		0438C88C1D77B856004278A2 /* CHButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 0438C88A1D77B856004278A2 /* CHButton.m */; };
+		0453D5801D769D9C00D3CD4C /* MyAnnotation.h in Headers */ = {isa = PBXBuildFile; fileRef = 0453D57E1D769D9C00D3CD4C /* MyAnnotation.h */; };
+		0453D5811D769D9C00D3CD4C /* MyAnnotation.m in Sources */ = {isa = PBXBuildFile; fileRef = 0453D57F1D769D9C00D3CD4C /* MyAnnotation.m */; };
+		0485C99A1D76C9E8004C9473 /* UIScrollView+CHTouch.h in Headers */ = {isa = PBXBuildFile; fileRef = 0485C9981D76C9E8004C9473 /* UIScrollView+CHTouch.h */; };
+		0485C99B1D76C9E8004C9473 /* UIScrollView+CHTouch.m in Sources */ = {isa = PBXBuildFile; fileRef = 0485C9991D76C9E8004C9473 /* UIScrollView+CHTouch.m */; };
+		0485C9A01D76D1EF004C9473 /* AMViralSwitch.h in Headers */ = {isa = PBXBuildFile; fileRef = 0485C99E1D76D1EF004C9473 /* AMViralSwitch.h */; };
+		0485C9A11D76D1EF004C9473 /* AMViralSwitch.m in Sources */ = {isa = PBXBuildFile; fileRef = 0485C99F1D76D1EF004C9473 /* AMViralSwitch.m */; };
 		04E52A2B1D74276B00794BEF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 04E52A2A1D74276B00794BEF /* main.m */; };
 		04E52A2D1D74276B00794BEF /* AppDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 04E52A2C1D74276B00794BEF /* AppDelegate.h */; };
 		04E52A2F1D74276B00794BEF /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 04E52A2E1D74276B00794BEF /* AppDelegate.m */; };
-		04E52A321D74276B00794BEF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04E52A301D74276B00794BEF /* Main.storyboard */; };
-		04E52A361D74276B00794BEF /* control.txt in Resources */ = {isa = PBXBuildFile; fileRef = 04E52A351D74276B00794BEF /* control.txt */; };
 		04E52A381D74276B00794BEF /* control in Resources */ = {isa = PBXBuildFile; fileRef = 04E52A371D74276B00794BEF /* control */; };
 		04E52A3A1D74276B00794BEF /* PackageVersion.plist in Resources */ = {isa = PBXBuildFile; fileRef = 04E52A391D74276B00794BEF /* PackageVersion.plist */; };
-		04E52A3C1D74276B00794BEF /* ___VARIABLE_classPrefix:identifier___ViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 04E52A3B1D74276B00794BEF /* ___VARIABLE_classPrefix:identifier___ViewController.h */; };
-		04E52A3E1D74276B00794BEF /* ___VARIABLE_classPrefix:identifier___ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04E52A3D1D74276B00794BEF /* ___VARIABLE_classPrefix:identifier___ViewController.m */; };
-		04E52A421D74276B00794BEF /* 0xdeadfa11 in Resources */ = {isa = PBXBuildFile; fileRef = 04E52A411D74276B00794BEF /* 0xdeadfa11 */; };
-		04E52A451D74276B00794BEF /* ___VARIABLE_classPrefix:identifier___ViewController_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = 04E52A431D74276B00794BEF /* ___VARIABLE_classPrefix:identifier___ViewController_iPhone.xib */; };
-		04E52A481D74276B00794BEF /* ___VARIABLE_classPrefix:identifier___ViewController_iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 04E52A461D74276B00794BEF /* ___VARIABLE_classPrefix:identifier___ViewController_iPad.xib */; };
 		04E52A4A1D74276B00794BEF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04E52A491D74276B00794BEF /* Assets.xcassets */; };
 		04E52A4D1D74276B00794BEF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04E52A4B1D74276B00794BEF /* LaunchScreen.storyboard */; };
 		04E52A581D74276B00794BEF /* CHFuckLocAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 04E52A571D74276B00794BEF /* CHFuckLocAppTests.m */; };
 		04E52A631D74276B00794BEF /* CHFuckLocAppUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 04E52A621D74276B00794BEF /* CHFuckLocAppUITests.m */; };
+		04E52A721D74284500794BEF /* CHGoViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 04E52A701D74284500794BEF /* CHGoViewController.h */; };
+		04E52A731D74284500794BEF /* CHGoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04E52A711D74284500794BEF /* CHGoViewController.m */; };
+		04E52A781D74340E00794BEF /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04E52A771D74340E00794BEF /* CoreLocation.framework */; };
+		04E52A7C1D74403500794BEF /* LocModel.h in Headers */ = {isa = PBXBuildFile; fileRef = 04E52A7A1D74403500794BEF /* LocModel.h */; };
+		04E52A7D1D74403500794BEF /* LocModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 04E52A7B1D74403500794BEF /* LocModel.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,19 +49,20 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0438C8891D77B856004278A2 /* CHButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CHButton.h; sourceTree = "<group>"; };
+		0438C88A1D77B856004278A2 /* CHButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CHButton.m; sourceTree = "<group>"; };
+		0453D57E1D769D9C00D3CD4C /* MyAnnotation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyAnnotation.h; sourceTree = "<group>"; };
+		0453D57F1D769D9C00D3CD4C /* MyAnnotation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyAnnotation.m; sourceTree = "<group>"; };
+		0485C9981D76C9E8004C9473 /* UIScrollView+CHTouch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIScrollView+CHTouch.h"; sourceTree = "<group>"; };
+		0485C9991D76C9E8004C9473 /* UIScrollView+CHTouch.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIScrollView+CHTouch.m"; sourceTree = "<group>"; };
+		0485C99E1D76D1EF004C9473 /* AMViralSwitch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AMViralSwitch.h; sourceTree = "<group>"; };
+		0485C99F1D76D1EF004C9473 /* AMViralSwitch.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AMViralSwitch.m; sourceTree = "<group>"; };
 		04E52A261D74276B00794BEF /* CHFuckLocApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CHFuckLocApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		04E52A2A1D74276B00794BEF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		04E52A2C1D74276B00794BEF /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		04E52A2E1D74276B00794BEF /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		04E52A311D74276B00794BEF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		04E52A351D74276B00794BEF /* control.txt */ = {isa = PBXFileReference; lastKnownFileType = text; name = control.txt; path = Package/DEBIAN/control.txt; sourceTree = "<group>"; };
 		04E52A371D74276B00794BEF /* control */ = {isa = PBXFileReference; lastKnownFileType = text; name = control; path = Package/DEBIAN/control; sourceTree = "<group>"; };
 		04E52A391D74276B00794BEF /* PackageVersion.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = PackageVersion.plist; sourceTree = "<group>"; };
-		04E52A3B1D74276B00794BEF /* ___VARIABLE_classPrefix:identifier___ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "___VARIABLE_classPrefix:identifier___ViewController.h"; sourceTree = "<group>"; };
-		04E52A3D1D74276B00794BEF /* ___VARIABLE_classPrefix:identifier___ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "___VARIABLE_classPrefix:identifier___ViewController.m"; sourceTree = "<group>"; };
-		04E52A411D74276B00794BEF /* 0xdeadfa11 */ = {isa = PBXFileReference; lastKnownFileType = text; name = 0xdeadfa11; path = Package/Applications/CHFuckLocApp.app/0xdeadfa11; sourceTree = "<group>"; };
-		04E52A441D74276B00794BEF /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = "en.lproj/___VARIABLE_classPrefix:identifier___ViewController_iPhone.xib"; sourceTree = "<group>"; };
-		04E52A471D74276B00794BEF /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = "en.lproj/___VARIABLE_classPrefix:identifier___ViewController_iPad.xib"; sourceTree = "<group>"; };
 		04E52A491D74276B00794BEF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04E52A4C1D74276B00794BEF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		04E52A4E1D74276B00794BEF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -65,6 +72,11 @@
 		04E52A5E1D74276B00794BEF /* CHFuckLocAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CHFuckLocAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		04E52A621D74276B00794BEF /* CHFuckLocAppUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CHFuckLocAppUITests.m; sourceTree = "<group>"; };
 		04E52A641D74276B00794BEF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04E52A701D74284500794BEF /* CHGoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CHGoViewController.h; sourceTree = "<group>"; };
+		04E52A711D74284500794BEF /* CHGoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CHGoViewController.m; sourceTree = "<group>"; };
+		04E52A771D74340E00794BEF /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		04E52A7A1D74403500794BEF /* LocModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LocModel.h; sourceTree = "<group>"; };
+		04E52A7B1D74403500794BEF /* LocModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LocModel.m; sourceTree = "<group>"; wrapsLines = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +84,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04E52A781D74340E00794BEF /* CoreLocation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -99,9 +112,38 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0453D57D1D769D7B00D3CD4C /* View */ = {
+			isa = PBXGroup;
+			children = (
+				0485C9981D76C9E8004C9473 /* UIScrollView+CHTouch.h */,
+				0485C9991D76C9E8004C9473 /* UIScrollView+CHTouch.m */,
+				0438C8891D77B856004278A2 /* CHButton.h */,
+				0438C88A1D77B856004278A2 /* CHButton.m */,
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		0485C99C1D76D1D5004C9473 /* SDK Library */ = {
+			isa = PBXGroup;
+			children = (
+				0485C99D1D76D1EF004C9473 /* Source */,
+			);
+			name = "SDK Library";
+			sourceTree = "<group>";
+		};
+		0485C99D1D76D1EF004C9473 /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				0485C99E1D76D1EF004C9473 /* AMViralSwitch.h */,
+				0485C99F1D76D1EF004C9473 /* AMViralSwitch.m */,
+			);
+			path = Source;
+			sourceTree = "<group>";
+		};
 		04E52A191D74276B00794BEF = {
 			isa = PBXGroup;
 			children = (
+				04E52A771D74340E00794BEF /* CoreLocation.framework */,
 				04E52A281D74276B00794BEF /* CHFuckLocApp */,
 				04E52A561D74276B00794BEF /* CHFuckLocAppTests */,
 				04E52A611D74276B00794BEF /* CHFuckLocAppUITests */,
@@ -122,16 +164,10 @@
 		04E52A281D74276B00794BEF /* CHFuckLocApp */ = {
 			isa = PBXGroup;
 			children = (
-				04E52A2C1D74276B00794BEF /* AppDelegate.h */,
-				04E52A2E1D74276B00794BEF /* AppDelegate.m */,
-				04E52A301D74276B00794BEF /* Main.storyboard */,
-				04E52A3B1D74276B00794BEF /* ___VARIABLE_classPrefix:identifier___ViewController.h */,
-				04E52A3D1D74276B00794BEF /* ___VARIABLE_classPrefix:identifier___ViewController.m */,
-				04E52A431D74276B00794BEF /* ___VARIABLE_classPrefix:identifier___ViewController_iPhone.xib */,
-				04E52A461D74276B00794BEF /* ___VARIABLE_classPrefix:identifier___ViewController_iPad.xib */,
-				04E52A491D74276B00794BEF /* Assets.xcassets */,
-				04E52A4B1D74276B00794BEF /* LaunchScreen.storyboard */,
-				04E52A4E1D74276B00794BEF /* Info.plist */,
+				0485C99C1D76D1D5004C9473 /* SDK Library */,
+				0453D57D1D769D7B00D3CD4C /* View */,
+				04E52A791D74401900794BEF /* Model */,
+				04E52A741D74284A00794BEF /* ViewController */,
 				04E52A331D74276B00794BEF /* Package */,
 				04E52A291D74276B00794BEF /* Supporting Files */,
 			);
@@ -141,6 +177,9 @@
 		04E52A291D74276B00794BEF /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				04E52A491D74276B00794BEF /* Assets.xcassets */,
+				04E52A4B1D74276B00794BEF /* LaunchScreen.storyboard */,
+				04E52A4E1D74276B00794BEF /* Info.plist */,
 				04E52A2A1D74276B00794BEF /* main.m */,
 				04E52A391D74276B00794BEF /* PackageVersion.plist */,
 			);
@@ -159,7 +198,6 @@
 		04E52A341D74276B00794BEF /* DEBIAN */ = {
 			isa = PBXGroup;
 			children = (
-				04E52A351D74276B00794BEF /* control.txt */,
 				04E52A371D74276B00794BEF /* control */,
 			);
 			name = DEBIAN;
@@ -168,17 +206,8 @@
 		04E52A3F1D74276B00794BEF /* Applications */ = {
 			isa = PBXGroup;
 			children = (
-				04E52A401D74276B00794BEF /* ___PACKAGENAME___ */,
 			);
 			name = Applications;
-			sourceTree = "<group>";
-		};
-		04E52A401D74276B00794BEF /* ___PACKAGENAME___ */ = {
-			isa = PBXGroup;
-			children = (
-				04E52A411D74276B00794BEF /* 0xdeadfa11 */,
-			);
-			name = "___PACKAGENAME___";
 			sourceTree = "<group>";
 		};
 		04E52A561D74276B00794BEF /* CHFuckLocAppTests */ = {
@@ -199,6 +228,28 @@
 			path = CHFuckLocAppUITests;
 			sourceTree = "<group>";
 		};
+		04E52A741D74284A00794BEF /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				04E52A2C1D74276B00794BEF /* AppDelegate.h */,
+				04E52A2E1D74276B00794BEF /* AppDelegate.m */,
+				04E52A701D74284500794BEF /* CHGoViewController.h */,
+				04E52A711D74284500794BEF /* CHGoViewController.m */,
+			);
+			name = ViewController;
+			sourceTree = "<group>";
+		};
+		04E52A791D74401900794BEF /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				0453D57E1D769D9C00D3CD4C /* MyAnnotation.h */,
+				0453D57F1D769D9C00D3CD4C /* MyAnnotation.m */,
+				04E52A7A1D74403500794BEF /* LocModel.h */,
+				04E52A7B1D74403500794BEF /* LocModel.m */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
@@ -206,7 +257,12 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				04E52A3C1D74276B00794BEF /* ___VARIABLE_classPrefix:identifier___ViewController.h in Headers */,
+				0485C99A1D76C9E8004C9473 /* UIScrollView+CHTouch.h in Headers */,
+				0438C88B1D77B856004278A2 /* CHButton.h in Headers */,
+				04E52A721D74284500794BEF /* CHGoViewController.h in Headers */,
+				0453D5801D769D9C00D3CD4C /* MyAnnotation.h in Headers */,
+				0485C9A01D76D1EF004C9473 /* AMViralSwitch.h in Headers */,
+				04E52A7C1D74403500794BEF /* LocModel.h in Headers */,
 				04E52A2D1D74276B00794BEF /* AppDelegate.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -224,7 +280,7 @@
 				04E52A211D74276B00794BEF /* Sources */,
 				04E52A221D74276B00794BEF /* Frameworks */,
 				04E52A231D74276B00794BEF /* Headers */,
-				04E52A241D74276B00794BEF /* ShellScript */,
+				04E52A241D74276B00794BEF /* Run Script */,
 			);
 			buildRules = (
 			);
@@ -319,14 +375,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				04E52A4D1D74276B00794BEF /* LaunchScreen.storyboard in Resources */,
-				04E52A451D74276B00794BEF /* ___VARIABLE_classPrefix:identifier___ViewController_iPhone.xib in Resources */,
-				04E52A481D74276B00794BEF /* ___VARIABLE_classPrefix:identifier___ViewController_iPad.xib in Resources */,
 				04E52A3A1D74276B00794BEF /* PackageVersion.plist in Resources */,
-				04E52A421D74276B00794BEF /* 0xdeadfa11 in Resources */,
 				04E52A381D74276B00794BEF /* control in Resources */,
-				04E52A361D74276B00794BEF /* control.txt in Resources */,
 				04E52A4A1D74276B00794BEF /* Assets.xcassets in Resources */,
-				04E52A321D74276B00794BEF /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -347,18 +398,19 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		04E52A241D74276B00794BEF /* ShellScript */ = {
+		04E52A241D74276B00794BEF /* Run Script */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 			);
+			name = "Run Script";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "#!/bin/sh\n###########################\nexport IP_ADDRESS=\"\"\n##您设备的IP地址\nexport PACK_APP_VERSION=\"\"\n##您APP的版本号，留空为默认（1.0-1）\nexport YOUR_APP_NAME=\"\"\n##请输入您的APP名称比如（test）注意后面不带.app\nexport PACK_APP_DESCR=\"\"\n##请输入对程序的描述:\nexport PACK_AUTHOR_NAME=\"\"\n##请输入您的姓名：\n###########################\n#上面是需要您修改的！！下面的请不要动它。。\nexport APP_NAME=${YOUR_APP_NAME}.app\nexport EXE_FILE=boot${YOUR_APP_NAME}\nexport BOOT_FILE=${YOUR_APP_NAME}\nexport PACK_APP_NAME=${YOUR_APP_NAME}\nexport PACK_DEB_NAME=com.${PACK_AUTHOR_NAME}.${PACK_APP_NAME}.deb\n\n/opt/iOSOpenDev/bin/iosod --xcbp\n\nscp /opt/iOSOpenDev/bin/bootit root@${IP_ADDRESS}:/Applications/${APP_NAME}\nssh root@${IP_ADDRESS} \"echo 'chown -R root:admin /Applications/${APP_NAME}\nchmod -R 755 /Applications/$APP_NAME\ncd /Applications/$APP_NAME\nmv $BOOT_FILE $EXE_FILE\nmv bootit $BOOT_FILE\nchown mobile:staff $BOOT_FILE\nchmod 6755 $EXE_FILE\nchmod 755 $BOOT_FILE' > /tmp/bootit.sh\"\nssh root@$IP_ADDRESS sh /tmp/bootit.sh\n######引导模块###########################\nif [ ${PACK_APP_VERSION} ==  ]; then\nexport PACK_APP_VERSION=1.0-1\nfi\n\necho \"\ncd /tmp\nmkdir tmpdeb\ncd /tmp/tmpdeb\nmkdir Applications\nmkdir DEBIAN\ncd /tmp/tmpdeb/DEBIAN\ntouch control\necho \\\"\nPackage: com.${PACK_AUTHOR_NAME}.${PACK_APP_NAME}\nName: ${PACK_APP_NAME}\nVersion: ${PACK_APP_VERSION}\nDescription: ${PACK_APP_DESCR}\nConflicts:\nReplaces:\nPriority: optional\nArchitecture: iphoneos-arm\nAuthor: ${PACK_AUTHOR_NAME}\ndev:\nHomepage:\nDepiction:\nMaintainer:\nIcon:\n\\\" >control\ncp -pr /Applications/${PACK_APP_NAME}.app /tmp/tmpdeb/Applications\ndpkg -b /tmp/tmpdeb /tmp/${PACK_DEB_NAME}\nmv /tmp/${PACK_DEB_NAME} /var/mobile\nrm -rf /tmp/tmpdeb\nrm -f /tmp/_package.sh\" > ~/_package.sh\necho \"正在上传。。。\"\nscp ~/_package.sh root@${IP_ADDRESS}:/tmp\nssh root@${IP_ADDRESS} chown root:wheel /tmp/_package.sh\nssh root@${IP_ADDRESS} chmod 777 /tmp/_package.sh\nssh root@${IP_ADDRESS} sh /tmp/_package.sh\nrm -f ~/_package.sh\n#ssh root@${IP_ADDRESS} killall SpringBoard\necho \"完成！！请在设备的/var/mobile 复制出deb文件！\"\n##################打包模块##################";
+			shellScript = "#!/bin/sh\n###########################\nexport IP_ADDRESS=\"192.168.199.127\"\n##您设备的IP地址\nexport PACK_APP_VERSION=\"1.2-1\"\n##您APP的版本号，留空为默认（1.0-1）\nexport YOUR_APP_NAME=\"FakeLOc\"\n##请输入您的APP名称比如（test）注意后面不带.app\nexport PACK_APP_DESCR=\"fake your location for all applications \"\n##请输入对程序的描述:\nexport PACK_AUTHOR_NAME=\"ch4r0n\"\n##请输入您的姓名：\n###########################\n#上面是需要您修改的！！下面的请不要动它。。\nexport APP_NAME=${YOUR_APP_NAME}.app\nexport EXE_FILE=boot${YOUR_APP_NAME}\nexport BOOT_FILE=${YOUR_APP_NAME}\nexport PACK_APP_NAME=${YOUR_APP_NAME}\nexport PACK_DEB_NAME=com.${PACK_AUTHOR_NAME}.${PACK_APP_NAME}.deb\n\n/opt/iOSOpenDev/bin/iosod --xcbp\n\nscp /opt/iOSOpenDev/bin/bootit root@${IP_ADDRESS}:/Applications/${APP_NAME}\nssh root@${IP_ADDRESS} \"echo 'chown -R root:admin /Applications/${APP_NAME}\nchmod -R 777 /Applications/$APP_NAME\ncd /Applications/$APP_NAME\nmv $BOOT_FILE $EXE_FILE\nmv bootit $BOOT_FILE\nchown mobile:staff $BOOT_FILE\nchmod 6755 $EXE_FILE\nchmod 755 $BOOT_FILE' > /tmp/bootit.sh\"\nssh root@$IP_ADDRESS sh /tmp/bootit.sh\n######引导模块###########################\nif [ ${PACK_APP_VERSION} ==  ]; then\nexport PACK_APP_VERSION=1.0-1\nfi\n\necho \"\ncd /tmp\nmkdir tmpdeb\ncd /tmp/tmpdeb\nmkdir Applications\nmkdir DEBIAN\ncd /tmp/tmpdeb/DEBIAN\ntouch control\necho \\\"\nPackage: com.${PACK_AUTHOR_NAME}.${PACK_APP_NAME}\nName: ${PACK_APP_NAME}\nVersion: ${PACK_APP_VERSION}\nDescription: ${PACK_APP_DESCR}\nConflicts:\nReplaces:\nPriority: optional\nArchitecture: iphoneos-arm\nAuthor: ${PACK_AUTHOR_NAME}\ndev:\nHomepage:\nDepiction:\nMaintainer:\nIcon:\n\\\" >control\ncp -pr /Applications/${PACK_APP_NAME}.app /tmp/tmpdeb/Applications\ndpkg -b /tmp/tmpdeb /tmp/${PACK_DEB_NAME}\nmv /tmp/${PACK_DEB_NAME} /var/mobile\nrm -rf /tmp/tmpdeb\nrm -f /tmp/_package.sh\" > ~/_package.sh\necho \"正在上传。。。\"\nscp ~/_package.sh root@${IP_ADDRESS}:/tmp\nssh root@${IP_ADDRESS} chown root:wheel /tmp/_package.sh\nssh root@${IP_ADDRESS} chmod 777 /tmp/_package.sh\nssh root@${IP_ADDRESS} sh /tmp/_package.sh\nrm -f ~/_package.sh\n#ssh root@${IP_ADDRESS} killall SpringBoard\necho \"完成！！请在设备的/var/mobile 复制出deb文件！\"\n##################打包模块##################";
 		};
 /* End PBXShellScriptBuildPhase section */
 
@@ -367,9 +419,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0485C9A11D76D1EF004C9473 /* AMViralSwitch.m in Sources */,
+				0485C99B1D76C9E8004C9473 /* UIScrollView+CHTouch.m in Sources */,
+				04E52A7D1D74403500794BEF /* LocModel.m in Sources */,
+				0453D5811D769D9C00D3CD4C /* MyAnnotation.m in Sources */,
+				0438C88C1D77B856004278A2 /* CHButton.m in Sources */,
 				04E52A2F1D74276B00794BEF /* AppDelegate.m in Sources */,
+				04E52A731D74284500794BEF /* CHGoViewController.m in Sources */,
 				04E52A2B1D74276B00794BEF /* main.m in Sources */,
-				04E52A3E1D74276B00794BEF /* ___VARIABLE_classPrefix:identifier___ViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -412,30 +469,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		04E52A301D74276B00794BEF /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				04E52A311D74276B00794BEF /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		04E52A431D74276B00794BEF /* ___VARIABLE_classPrefix:identifier___ViewController_iPhone.xib */ = {
-			isa = PBXVariantGroup;
-			children = (
-				04E52A441D74276B00794BEF /* en */,
-			);
-			name = "___VARIABLE_classPrefix:identifier___ViewController_iPhone.xib";
-			sourceTree = "<group>";
-		};
-		04E52A461D74276B00794BEF /* ___VARIABLE_classPrefix:identifier___ViewController_iPad.xib */ = {
-			isa = PBXVariantGroup;
-			children = (
-				04E52A471D74276B00794BEF /* en */,
-			);
-			name = "___VARIABLE_classPrefix:identifier___ViewController_iPad.xib";
-			sourceTree = "<group>";
-		};
 		04E52A4B1D74276B00794BEF /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -558,11 +591,15 @@
 				CODE_SIGN_IDENTITY = "";
 				INFOPLIST_FILE = CHFuckLocApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.86itsec.CHFuckLocApp;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/CHFuckLocApp",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.86itsec.CHFakeL0C;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				iOSOpenDevBuildPackageOnAnyBuild = NO;
 				iOSOpenDevCopyOnBuild = NO;
-				iOSOpenDevDevice = "";
+				iOSOpenDevDevice = 192.168.199.126;
 				iOSOpenDevInstallOnAnyBuild = NO;
 				iOSOpenDevInstallOnProfiling = YES;
 				iOSOpenDevRespringOnInstall = YES;
@@ -577,11 +614,15 @@
 				CODE_SIGN_IDENTITY = "";
 				INFOPLIST_FILE = CHFuckLocApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.86itsec.CHFuckLocApp;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/CHFuckLocApp",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.86itsec.CHFakeL0C;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				iOSOpenDevBuildPackageOnAnyBuild = NO;
 				iOSOpenDevCopyOnBuild = NO;
-				iOSOpenDevDevice = "";
+				iOSOpenDevDevice = 192.168.199.126;
 				iOSOpenDevInstallOnAnyBuild = NO;
 				iOSOpenDevInstallOnProfiling = YES;
 				iOSOpenDevRespringOnInstall = YES;
@@ -660,6 +701,7 @@
 				04E52A691D74276B00794BEF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		04E52A6A1D74276B00794BEF /* Build configuration list for PBXNativeTarget "CHFuckLocAppTests" */ = {
 			isa = XCConfigurationList;
@@ -668,6 +710,7 @@
 				04E52A6C1D74276B00794BEF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		04E52A6D1D74276B00794BEF /* Build configuration list for PBXNativeTarget "CHFuckLocAppUITests" */ = {
 			isa = XCConfigurationList;
@@ -676,6 +719,7 @@
 				04E52A6F1D74276B00794BEF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
