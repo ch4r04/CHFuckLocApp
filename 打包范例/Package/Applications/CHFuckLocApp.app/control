@@ -1,0 +1,15 @@
+Package: com.86itsec.CHFuckLocApp
+Name: CHFuckLocApp
+Version: 1.0-1
+Description: 
+Conflicts: 
+Replaces: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: hya
+dev: 
+Homepage: 
+Depiction: 
+Maintainer: 
+Icon: 
+

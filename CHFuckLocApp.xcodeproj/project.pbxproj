@@ -15,6 +15,33 @@
 		0485C99B1D76C9E8004C9473 /* UIScrollView+CHTouch.m in Sources */ = {isa = PBXBuildFile; fileRef = 0485C9991D76C9E8004C9473 /* UIScrollView+CHTouch.m */; };
 		0485C9A01D76D1EF004C9473 /* AMViralSwitch.h in Headers */ = {isa = PBXBuildFile; fileRef = 0485C99E1D76D1EF004C9473 /* AMViralSwitch.h */; };
 		0485C9A11D76D1EF004C9473 /* AMViralSwitch.m in Sources */ = {isa = PBXBuildFile; fileRef = 0485C99F1D76D1EF004C9473 /* AMViralSwitch.m */; };
+		04BEE2C71D7951EA000A92A7 /* makePackage.sh in Resources */ = {isa = PBXBuildFile; fileRef = 04BEE2961D7951EA000A92A7 /* makePackage.sh */; };
+		04BEE2C81D7951EA000A92A7 /* CHFuckLocApp.app in Resources */ = {isa = PBXBuildFile; fileRef = 04BEE2991D7951EA000A92A7 /* CHFuckLocApp.app */; };
+		04BEE2C91D7951EA000A92A7 /* control in Resources */ = {isa = PBXBuildFile; fileRef = 04BEE29B1D7951EA000A92A7 /* control */; };
+		04BEE2CA1D7951EA000A92A7 /* CHFuckLoc.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 04BEE29F1D7951EA000A92A7 /* CHFuckLoc.dylib */; };
+		04BEE2CB1D7951EA000A92A7 /* CHFuckLoc.plist in Resources */ = {isa = PBXBuildFile; fileRef = 04BEE2A01D7951EA000A92A7 /* CHFuckLoc.plist */; };
+		04BEE2CC1D7951EA000A92A7 /* control in Resources */ = {isa = PBXBuildFile; fileRef = 04BEE2A51D7951EA000A92A7 /* control */; };
+		04BEE2CD1D7951EA000A92A7 /* CHFuckLoc.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 04BEE2A91D7951EA000A92A7 /* CHFuckLoc.dylib */; };
+		04BEE2CE1D7951EA000A92A7 /* CHFuckLoc.plist in Resources */ = {isa = PBXBuildFile; fileRef = 04BEE2AA1D7951EA000A92A7 /* CHFuckLoc.plist */; };
+		04BEE2CF1D7951EA000A92A7 /* build_session in Resources */ = {isa = PBXBuildFile; fileRef = 04BEE2AB1D7951EA000A92A7 /* build_session */; };
+		04BEE2D01D7951EA000A92A7 /* fakeroot in Resources */ = {isa = PBXBuildFile; fileRef = 04BEE2AC1D7951EA000A92A7 /* fakeroot */; };
+		04BEE2D11D7951EA000A92A7 /* last_package in Resources */ = {isa = PBXBuildFile; fileRef = 04BEE2AD1D7951EA000A92A7 /* last_package */; };
+		04BEE2D21D7951EA000A92A7 /* .stamp in Resources */ = {isa = PBXBuildFile; fileRef = 04BEE2B01D7951EA000A92A7 /* .stamp */; };
+		04BEE2D31D7951EA000A92A7 /* CHFuckLoc.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 04BEE2B21D7951EA000A92A7 /* CHFuckLoc.dylib */; };
+		04BEE2D41D7951EA000A92A7 /* LCBridge.m.c62271d4.o in Frameworks */ = {isa = PBXBuildFile; fileRef = 04BEE2B31D7951EA000A92A7 /* LCBridge.m.c62271d4.o */; };
+		04BEE2D51D7951EA000A92A7 /* Tweak.xm.c62271d4.o in Frameworks */ = {isa = PBXBuildFile; fileRef = 04BEE2B41D7951EA000A92A7 /* Tweak.xm.c62271d4.o */; };
+		04BEE2D61D7951EA000A92A7 /* CHFuckLoc.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 04BEE2B61D7951EA000A92A7 /* CHFuckLoc.dylib */; };
+		04BEE2D71D7951EA000A92A7 /* LCBridge.m.f812a8d9.o in Frameworks */ = {isa = PBXBuildFile; fileRef = 04BEE2B71D7951EA000A92A7 /* LCBridge.m.f812a8d9.o */; };
+		04BEE2D81D7951EA000A92A7 /* Tweak.xm.f812a8d9.o in Frameworks */ = {isa = PBXBuildFile; fileRef = 04BEE2B81D7951EA000A92A7 /* Tweak.xm.f812a8d9.o */; };
+		04BEE2D91D7951EA000A92A7 /* CHFuckLoc.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 04BEE2B91D7951EA000A92A7 /* CHFuckLoc.dylib */; };
+		04BEE2DA1D7951EA000A92A7 /* com.86itsec.chfuckloc-0.0.1 in Resources */ = {isa = PBXBuildFile; fileRef = 04BEE2BB1D7951EA000A92A7 /* com.86itsec.chfuckloc-0.0.1 */; };
+		04BEE2DB1D7951EA000A92A7 /* CHFuckLoc.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 04BEE2BC1D7951EA000A92A7 /* CHFuckLoc.dylib */; };
+		04BEE2DC1D7951EA000A92A7 /* CHFuckLoc.plist in Resources */ = {isa = PBXBuildFile; fileRef = 04BEE2BD1D7951EA000A92A7 /* CHFuckLoc.plist */; };
+		04BEE2DD1D7951EA000A92A7 /* control in Resources */ = {isa = PBXBuildFile; fileRef = 04BEE2BE1D7951EA000A92A7 /* control */; };
+		04BEE2DE1D7951EA000A92A7 /* LCBridge.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BEE2C01D7951EA000A92A7 /* LCBridge.m */; };
+		04BEE2DF1D7951EA000A92A7 /* Makefile in Sources */ = {isa = PBXBuildFile; fileRef = 04BEE2C11D7951EA000A92A7 /* Makefile */; };
+		04BEE2E01D7951EA000A92A7 /* com.86itsec.chfuckloc_0.0.1-12+debug_iphoneos-arm.deb in Frameworks */ = {isa = PBXBuildFile; fileRef = 04BEE2C51D7951EA000A92A7 /* com.86itsec.chfuckloc_0.0.1-12+debug_iphoneos-arm.deb */; };
+		04BEE2E11D7951EA000A92A7 /* Tweak.xm in Resources */ = {isa = PBXBuildFile; fileRef = 04BEE2C61D7951EA000A92A7 /* Tweak.xm */; };
 		04E52A2B1D74276B00794BEF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 04E52A2A1D74276B00794BEF /* main.m */; };
 		04E52A2D1D74276B00794BEF /* AppDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 04E52A2C1D74276B00794BEF /* AppDelegate.h */; };
 		04E52A2F1D74276B00794BEF /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 04E52A2E1D74276B00794BEF /* AppDelegate.m */; };
@@ -22,8 +49,6 @@
 		04E52A3A1D74276B00794BEF /* PackageVersion.plist in Resources */ = {isa = PBXBuildFile; fileRef = 04E52A391D74276B00794BEF /* PackageVersion.plist */; };
 		04E52A4A1D74276B00794BEF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04E52A491D74276B00794BEF /* Assets.xcassets */; };
 		04E52A4D1D74276B00794BEF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04E52A4B1D74276B00794BEF /* LaunchScreen.storyboard */; };
-		04E52A581D74276B00794BEF /* CHFuckLocAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 04E52A571D74276B00794BEF /* CHFuckLocAppTests.m */; };
-		04E52A631D74276B00794BEF /* CHFuckLocAppUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 04E52A621D74276B00794BEF /* CHFuckLocAppUITests.m */; };
 		04E52A721D74284500794BEF /* CHGoViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 04E52A701D74284500794BEF /* CHGoViewController.h */; };
 		04E52A731D74284500794BEF /* CHGoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04E52A711D74284500794BEF /* CHGoViewController.m */; };
 		04E52A781D74340E00794BEF /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04E52A771D74340E00794BEF /* CoreLocation.framework */; };
@@ -57,6 +82,34 @@
 		0485C9991D76C9E8004C9473 /* UIScrollView+CHTouch.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIScrollView+CHTouch.m"; sourceTree = "<group>"; };
 		0485C99E1D76D1EF004C9473 /* AMViralSwitch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AMViralSwitch.h; sourceTree = "<group>"; };
 		0485C99F1D76D1EF004C9473 /* AMViralSwitch.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AMViralSwitch.m; sourceTree = "<group>"; };
+		04BEE2961D7951EA000A92A7 /* makePackage.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = makePackage.sh; sourceTree = "<group>"; };
+		04BEE2991D7951EA000A92A7 /* CHFuckLocApp.app */ = {isa = PBXFileReference; lastKnownFileType = wrapper.application; path = CHFuckLocApp.app; sourceTree = "<group>"; };
+		04BEE29B1D7951EA000A92A7 /* control */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = control; sourceTree = "<group>"; };
+		04BEE29F1D7951EA000A92A7 /* CHFuckLoc.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = CHFuckLoc.dylib; sourceTree = "<group>"; };
+		04BEE2A01D7951EA000A92A7 /* CHFuckLoc.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = CHFuckLoc.plist; sourceTree = "<group>"; };
+		04BEE2A51D7951EA000A92A7 /* control */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = control; sourceTree = "<group>"; };
+		04BEE2A91D7951EA000A92A7 /* CHFuckLoc.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = CHFuckLoc.dylib; sourceTree = "<group>"; };
+		04BEE2AA1D7951EA000A92A7 /* CHFuckLoc.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = CHFuckLoc.plist; sourceTree = "<group>"; };
+		04BEE2AB1D7951EA000A92A7 /* build_session */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = build_session; sourceTree = "<group>"; };
+		04BEE2AC1D7951EA000A92A7 /* fakeroot */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = fakeroot; sourceTree = "<group>"; };
+		04BEE2AD1D7951EA000A92A7 /* last_package */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = last_package; sourceTree = "<group>"; };
+		04BEE2B01D7951EA000A92A7 /* .stamp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .stamp; sourceTree = "<group>"; };
+		04BEE2B21D7951EA000A92A7 /* CHFuckLoc.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = CHFuckLoc.dylib; sourceTree = "<group>"; };
+		04BEE2B31D7951EA000A92A7 /* LCBridge.m.c62271d4.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = LCBridge.m.c62271d4.o; sourceTree = "<group>"; };
+		04BEE2B41D7951EA000A92A7 /* Tweak.xm.c62271d4.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = Tweak.xm.c62271d4.o; sourceTree = "<group>"; };
+		04BEE2B61D7951EA000A92A7 /* CHFuckLoc.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = CHFuckLoc.dylib; sourceTree = "<group>"; };
+		04BEE2B71D7951EA000A92A7 /* LCBridge.m.f812a8d9.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = LCBridge.m.f812a8d9.o; sourceTree = "<group>"; };
+		04BEE2B81D7951EA000A92A7 /* Tweak.xm.f812a8d9.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = Tweak.xm.f812a8d9.o; sourceTree = "<group>"; };
+		04BEE2B91D7951EA000A92A7 /* CHFuckLoc.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = CHFuckLoc.dylib; sourceTree = "<group>"; };
+		04BEE2BB1D7951EA000A92A7 /* com.86itsec.chfuckloc-0.0.1 */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.man; path = "com.86itsec.chfuckloc-0.0.1"; sourceTree = "<group>"; };
+		04BEE2BC1D7951EA000A92A7 /* CHFuckLoc.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = CHFuckLoc.dylib; sourceTree = "<group>"; };
+		04BEE2BD1D7951EA000A92A7 /* CHFuckLoc.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = CHFuckLoc.plist; sourceTree = "<group>"; };
+		04BEE2BE1D7951EA000A92A7 /* control */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = control; sourceTree = "<group>"; };
+		04BEE2BF1D7951EA000A92A7 /* LCBridge.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LCBridge.h; sourceTree = "<group>"; };
+		04BEE2C01D7951EA000A92A7 /* LCBridge.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LCBridge.m; sourceTree = "<group>"; };
+		04BEE2C11D7951EA000A92A7 /* Makefile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
+		04BEE2C51D7951EA000A92A7 /* com.86itsec.chfuckloc_0.0.1-12+debug_iphoneos-arm.deb */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = "com.86itsec.chfuckloc_0.0.1-12+debug_iphoneos-arm.deb"; sourceTree = "<group>"; };
+		04BEE2C61D7951EA000A92A7 /* Tweak.xm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Tweak.xm; sourceTree = "<group>"; };
 		04E52A261D74276B00794BEF /* CHFuckLocApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CHFuckLocApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		04E52A2A1D74276B00794BEF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		04E52A2C1D74276B00794BEF /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -67,11 +120,7 @@
 		04E52A4C1D74276B00794BEF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		04E52A4E1D74276B00794BEF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		04E52A531D74276B00794BEF /* CHFuckLocAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CHFuckLocAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		04E52A571D74276B00794BEF /* CHFuckLocAppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CHFuckLocAppTests.m; sourceTree = "<group>"; };
-		04E52A591D74276B00794BEF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		04E52A5E1D74276B00794BEF /* CHFuckLocAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CHFuckLocAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		04E52A621D74276B00794BEF /* CHFuckLocAppUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CHFuckLocAppUITests.m; sourceTree = "<group>"; };
-		04E52A641D74276B00794BEF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		04E52A701D74284500794BEF /* CHGoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CHGoViewController.h; sourceTree = "<group>"; };
 		04E52A711D74284500794BEF /* CHGoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CHGoViewController.m; sourceTree = "<group>"; };
 		04E52A771D74340E00794BEF /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
@@ -99,6 +148,17 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04BEE2D51D7951EA000A92A7 /* Tweak.xm.c62271d4.o in Frameworks */,
+				04BEE2D71D7951EA000A92A7 /* LCBridge.m.f812a8d9.o in Frameworks */,
+				04BEE2D41D7951EA000A92A7 /* LCBridge.m.c62271d4.o in Frameworks */,
+				04BEE2CA1D7951EA000A92A7 /* CHFuckLoc.dylib in Frameworks */,
+				04BEE2D81D7951EA000A92A7 /* Tweak.xm.f812a8d9.o in Frameworks */,
+				04BEE2CD1D7951EA000A92A7 /* CHFuckLoc.dylib in Frameworks */,
+				04BEE2D31D7951EA000A92A7 /* CHFuckLoc.dylib in Frameworks */,
+				04BEE2DB1D7951EA000A92A7 /* CHFuckLoc.dylib in Frameworks */,
+				04BEE2D61D7951EA000A92A7 /* CHFuckLoc.dylib in Frameworks */,
+				04BEE2D91D7951EA000A92A7 /* CHFuckLoc.dylib in Frameworks */,
+				04BEE2E01D7951EA000A92A7 /* com.86itsec.chfuckloc_0.0.1-12+debug_iphoneos-arm.deb in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -126,6 +186,7 @@
 		0485C99C1D76D1D5004C9473 /* SDK Library */ = {
 			isa = PBXGroup;
 			children = (
+				04E52A771D74340E00794BEF /* CoreLocation.framework */,
 				0485C99D1D76D1EF004C9473 /* Source */,
 			);
 			name = "SDK Library";
@@ -140,13 +201,222 @@
 			path = Source;
 			sourceTree = "<group>";
 		};
+		04BEE2941D795190000A92A7 /* OtherResource */ = {
+			isa = PBXGroup;
+			children = (
+				04BEE2951D7951EA000A92A7 /* 打包范例 */,
+				04BEE2A11D7951EA000A92A7 /* chfuckloc */,
+			);
+			name = OtherResource;
+			sourceTree = "<group>";
+		};
+		04BEE2951D7951EA000A92A7 /* 打包范例 */ = {
+			isa = PBXGroup;
+			children = (
+				04BEE2961D7951EA000A92A7 /* makePackage.sh */,
+				04BEE2971D7951EA000A92A7 /* Package */,
+			);
+			path = "打包范例";
+			sourceTree = "<group>";
+		};
+		04BEE2971D7951EA000A92A7 /* Package */ = {
+			isa = PBXGroup;
+			children = (
+				04BEE2981D7951EA000A92A7 /* Applications */,
+				04BEE29A1D7951EA000A92A7 /* DEBIAN */,
+				04BEE29C1D7951EA000A92A7 /* Library */,
+			);
+			path = Package;
+			sourceTree = "<group>";
+		};
+		04BEE2981D7951EA000A92A7 /* Applications */ = {
+			isa = PBXGroup;
+			children = (
+				04BEE2991D7951EA000A92A7 /* CHFuckLocApp.app */,
+			);
+			path = Applications;
+			sourceTree = "<group>";
+		};
+		04BEE29A1D7951EA000A92A7 /* DEBIAN */ = {
+			isa = PBXGroup;
+			children = (
+				04BEE29B1D7951EA000A92A7 /* control */,
+			);
+			path = DEBIAN;
+			sourceTree = "<group>";
+		};
+		04BEE29C1D7951EA000A92A7 /* Library */ = {
+			isa = PBXGroup;
+			children = (
+				04BEE29D1D7951EA000A92A7 /* MobileSubstrate */,
+			);
+			path = Library;
+			sourceTree = "<group>";
+		};
+		04BEE29D1D7951EA000A92A7 /* MobileSubstrate */ = {
+			isa = PBXGroup;
+			children = (
+				04BEE29E1D7951EA000A92A7 /* DynamicLibraries */,
+			);
+			path = MobileSubstrate;
+			sourceTree = "<group>";
+		};
+		04BEE29E1D7951EA000A92A7 /* DynamicLibraries */ = {
+			isa = PBXGroup;
+			children = (
+				04BEE29F1D7951EA000A92A7 /* CHFuckLoc.dylib */,
+				04BEE2A01D7951EA000A92A7 /* CHFuckLoc.plist */,
+			);
+			path = DynamicLibraries;
+			sourceTree = "<group>";
+		};
+		04BEE2A11D7951EA000A92A7 /* chfuckloc */ = {
+			isa = PBXGroup;
+			children = (
+				04BEE2A21D7951EA000A92A7 /* .theos */,
+				04BEE2BC1D7951EA000A92A7 /* CHFuckLoc.dylib */,
+				04BEE2BD1D7951EA000A92A7 /* CHFuckLoc.plist */,
+				04BEE2BE1D7951EA000A92A7 /* control */,
+				04BEE2BF1D7951EA000A92A7 /* LCBridge.h */,
+				04BEE2C01D7951EA000A92A7 /* LCBridge.m */,
+				04BEE2C11D7951EA000A92A7 /* Makefile */,
+				04BEE2C21D7951EA000A92A7 /* obj */,
+				04BEE2C41D7951EA000A92A7 /* packages */,
+				04BEE2C61D7951EA000A92A7 /* Tweak.xm */,
+			);
+			path = chfuckloc;
+			sourceTree = "<group>";
+		};
+		04BEE2A21D7951EA000A92A7 /* .theos */ = {
+			isa = PBXGroup;
+			children = (
+				04BEE2A31D7951EA000A92A7 /* _ */,
+				04BEE2AB1D7951EA000A92A7 /* build_session */,
+				04BEE2AC1D7951EA000A92A7 /* fakeroot */,
+				04BEE2AD1D7951EA000A92A7 /* last_package */,
+				04BEE2AE1D7951EA000A92A7 /* obj */,
+				04BEE2BA1D7951EA000A92A7 /* packages */,
+			);
+			path = .theos;
+			sourceTree = "<group>";
+		};
+		04BEE2A31D7951EA000A92A7 /* _ */ = {
+			isa = PBXGroup;
+			children = (
+				04BEE2A41D7951EA000A92A7 /* DEBIAN */,
+				04BEE2A61D7951EA000A92A7 /* Library */,
+			);
+			path = _;
+			sourceTree = "<group>";
+		};
+		04BEE2A41D7951EA000A92A7 /* DEBIAN */ = {
+			isa = PBXGroup;
+			children = (
+				04BEE2A51D7951EA000A92A7 /* control */,
+			);
+			path = DEBIAN;
+			sourceTree = "<group>";
+		};
+		04BEE2A61D7951EA000A92A7 /* Library */ = {
+			isa = PBXGroup;
+			children = (
+				04BEE2A71D7951EA000A92A7 /* MobileSubstrate */,
+			);
+			path = Library;
+			sourceTree = "<group>";
+		};
+		04BEE2A71D7951EA000A92A7 /* MobileSubstrate */ = {
+			isa = PBXGroup;
+			children = (
+				04BEE2A81D7951EA000A92A7 /* DynamicLibraries */,
+			);
+			path = MobileSubstrate;
+			sourceTree = "<group>";
+		};
+		04BEE2A81D7951EA000A92A7 /* DynamicLibraries */ = {
+			isa = PBXGroup;
+			children = (
+				04BEE2A91D7951EA000A92A7 /* CHFuckLoc.dylib */,
+				04BEE2AA1D7951EA000A92A7 /* CHFuckLoc.plist */,
+			);
+			path = DynamicLibraries;
+			sourceTree = "<group>";
+		};
+		04BEE2AE1D7951EA000A92A7 /* obj */ = {
+			isa = PBXGroup;
+			children = (
+				04BEE2AF1D7951EA000A92A7 /* debug */,
+			);
+			path = obj;
+			sourceTree = "<group>";
+		};
+		04BEE2AF1D7951EA000A92A7 /* debug */ = {
+			isa = PBXGroup;
+			children = (
+				04BEE2B01D7951EA000A92A7 /* .stamp */,
+				04BEE2B11D7951EA000A92A7 /* arm64 */,
+				04BEE2B51D7951EA000A92A7 /* armv7 */,
+				04BEE2B91D7951EA000A92A7 /* CHFuckLoc.dylib */,
+			);
+			path = debug;
+			sourceTree = "<group>";
+		};
+		04BEE2B11D7951EA000A92A7 /* arm64 */ = {
+			isa = PBXGroup;
+			children = (
+				04BEE2B21D7951EA000A92A7 /* CHFuckLoc.dylib */,
+				04BEE2B31D7951EA000A92A7 /* LCBridge.m.c62271d4.o */,
+				04BEE2B41D7951EA000A92A7 /* Tweak.xm.c62271d4.o */,
+			);
+			path = arm64;
+			sourceTree = "<group>";
+		};
+		04BEE2B51D7951EA000A92A7 /* armv7 */ = {
+			isa = PBXGroup;
+			children = (
+				04BEE2B61D7951EA000A92A7 /* CHFuckLoc.dylib */,
+				04BEE2B71D7951EA000A92A7 /* LCBridge.m.f812a8d9.o */,
+				04BEE2B81D7951EA000A92A7 /* Tweak.xm.f812a8d9.o */,
+			);
+			path = armv7;
+			sourceTree = "<group>";
+		};
+		04BEE2BA1D7951EA000A92A7 /* packages */ = {
+			isa = PBXGroup;
+			children = (
+				04BEE2BB1D7951EA000A92A7 /* com.86itsec.chfuckloc-0.0.1 */,
+			);
+			path = packages;
+			sourceTree = "<group>";
+		};
+		04BEE2C21D7951EA000A92A7 /* obj */ = {
+			isa = PBXGroup;
+			children = (
+				04BEE2C31D7951EA000A92A7 /* debug */,
+			);
+			path = obj;
+			sourceTree = "<group>";
+		};
+		04BEE2C31D7951EA000A92A7 /* debug */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = debug;
+			sourceTree = "<group>";
+		};
+		04BEE2C41D7951EA000A92A7 /* packages */ = {
+			isa = PBXGroup;
+			children = (
+				04BEE2C51D7951EA000A92A7 /* com.86itsec.chfuckloc_0.0.1-12+debug_iphoneos-arm.deb */,
+			);
+			path = packages;
+			sourceTree = "<group>";
+		};
 		04E52A191D74276B00794BEF = {
 			isa = PBXGroup;
 			children = (
-				04E52A771D74340E00794BEF /* CoreLocation.framework */,
+				04BEE2941D795190000A92A7 /* OtherResource */,
 				04E52A281D74276B00794BEF /* CHFuckLocApp */,
-				04E52A561D74276B00794BEF /* CHFuckLocAppTests */,
-				04E52A611D74276B00794BEF /* CHFuckLocAppUITests */,
 				04E52A271D74276B00794BEF /* Products */,
 			);
 			sourceTree = "<group>";
@@ -208,24 +478,6 @@
 			children = (
 			);
 			name = Applications;
-			sourceTree = "<group>";
-		};
-		04E52A561D74276B00794BEF /* CHFuckLocAppTests */ = {
-			isa = PBXGroup;
-			children = (
-				04E52A571D74276B00794BEF /* CHFuckLocAppTests.m */,
-				04E52A591D74276B00794BEF /* Info.plist */,
-			);
-			path = CHFuckLocAppTests;
-			sourceTree = "<group>";
-		};
-		04E52A611D74276B00794BEF /* CHFuckLocAppUITests */ = {
-			isa = PBXGroup;
-			children = (
-				04E52A621D74276B00794BEF /* CHFuckLocAppUITests.m */,
-				04E52A641D74276B00794BEF /* Info.plist */,
-			);
-			path = CHFuckLocAppUITests;
 			sourceTree = "<group>";
 		};
 		04E52A741D74284A00794BEF /* ViewController */ = {
@@ -385,6 +637,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04BEE2C91D7951EA000A92A7 /* control in Resources */,
+				04BEE2D11D7951EA000A92A7 /* last_package in Resources */,
+				04BEE2C81D7951EA000A92A7 /* CHFuckLocApp.app in Resources */,
+				04BEE2C71D7951EA000A92A7 /* makePackage.sh in Resources */,
+				04BEE2D01D7951EA000A92A7 /* fakeroot in Resources */,
+				04BEE2D21D7951EA000A92A7 /* .stamp in Resources */,
+				04BEE2CF1D7951EA000A92A7 /* build_session in Resources */,
+				04BEE2E11D7951EA000A92A7 /* Tweak.xm in Resources */,
+				04BEE2DA1D7951EA000A92A7 /* com.86itsec.chfuckloc-0.0.1 in Resources */,
+				04BEE2CC1D7951EA000A92A7 /* control in Resources */,
+				04BEE2CB1D7951EA000A92A7 /* CHFuckLoc.plist in Resources */,
+				04BEE2CE1D7951EA000A92A7 /* CHFuckLoc.plist in Resources */,
+				04BEE2DC1D7951EA000A92A7 /* CHFuckLoc.plist in Resources */,
+				04BEE2DD1D7951EA000A92A7 /* control in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -441,7 +707,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				04E52A581D74276B00794BEF /* CHFuckLocAppTests.m in Sources */,
+				04BEE2DF1D7951EA000A92A7 /* Makefile in Sources */,
+				04BEE2DE1D7951EA000A92A7 /* LCBridge.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -449,7 +716,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				04E52A631D74276B00794BEF /* CHFuckLocAppUITests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -594,6 +860,14 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/CHFuckLocApp",
+					"$(PROJECT_DIR)/CHFuckLocApp/chfuckloc/.theos/_/Library/MobileSubstrate/DynamicLibraries",
+					"$(PROJECT_DIR)/CHFuckLocApp/chfuckloc/.theos/obj/debug/arm64",
+					"$(PROJECT_DIR)/CHFuckLocApp/chfuckloc/.theos/obj/debug/armv7",
+					"$(PROJECT_DIR)/CHFuckLocApp/chfuckloc/.theos/obj/debug",
+					"$(PROJECT_DIR)/CHFuckLocApp/chfuckloc",
+					"$(PROJECT_DIR)/CHFuckLocApp/chfuckloc/packages",
+					"$(PROJECT_DIR)/打包范例",
+					"$(PROJECT_DIR)/打包范例/Package/Library/MobileSubstrate/DynamicLibraries",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.86itsec.CHFakeL0C;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -617,6 +891,14 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/CHFuckLocApp",
+					"$(PROJECT_DIR)/CHFuckLocApp/chfuckloc/.theos/_/Library/MobileSubstrate/DynamicLibraries",
+					"$(PROJECT_DIR)/CHFuckLocApp/chfuckloc/.theos/obj/debug/arm64",
+					"$(PROJECT_DIR)/CHFuckLocApp/chfuckloc/.theos/obj/debug/armv7",
+					"$(PROJECT_DIR)/CHFuckLocApp/chfuckloc/.theos/obj/debug",
+					"$(PROJECT_DIR)/CHFuckLocApp/chfuckloc",
+					"$(PROJECT_DIR)/CHFuckLocApp/chfuckloc/packages",
+					"$(PROJECT_DIR)/打包范例",
+					"$(PROJECT_DIR)/打包范例/Package/Library/MobileSubstrate/DynamicLibraries",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.86itsec.CHFakeL0C;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -637,6 +919,16 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
 				INFOPLIST_FILE = CHFuckLocAppTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/打包范例/Package/Library/MobileSubstrate/DynamicLibraries",
+					"$(PROJECT_DIR)/chfuckloc/.theos/_/Library/MobileSubstrate/DynamicLibraries",
+					"$(PROJECT_DIR)/chfuckloc/.theos/obj/debug/arm64",
+					"$(PROJECT_DIR)/chfuckloc/.theos/obj/debug/armv7",
+					"$(PROJECT_DIR)/chfuckloc/.theos/obj/debug",
+					"$(PROJECT_DIR)/chfuckloc",
+					"$(PROJECT_DIR)/chfuckloc/packages",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.86itsec.CHFuckLocAppTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CHFuckLocApp.app/CHFuckLocApp";
@@ -651,6 +943,16 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
 				INFOPLIST_FILE = CHFuckLocAppTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/打包范例/Package/Library/MobileSubstrate/DynamicLibraries",
+					"$(PROJECT_DIR)/chfuckloc/.theos/_/Library/MobileSubstrate/DynamicLibraries",
+					"$(PROJECT_DIR)/chfuckloc/.theos/obj/debug/arm64",
+					"$(PROJECT_DIR)/chfuckloc/.theos/obj/debug/armv7",
+					"$(PROJECT_DIR)/chfuckloc/.theos/obj/debug",
+					"$(PROJECT_DIR)/chfuckloc",
+					"$(PROJECT_DIR)/chfuckloc/packages",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.86itsec.CHFuckLocAppTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CHFuckLocApp.app/CHFuckLocApp";

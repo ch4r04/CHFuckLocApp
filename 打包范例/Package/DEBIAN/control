@@ -1,0 +1,15 @@
+Package: com.86itsec.CHFuckLocApp
+Name: CHFakeL0c
+Version: 1.2-1
+Description: Fake your location for all applications.
+Conflicts: 
+Replaces: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: ch4r0n	
+dev: 
+Homepage: www.sweetear.cn
+Depiction: Fake your location for all applications
+Maintainer: ch4r0n
+Icon: 
+

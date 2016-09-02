@@ -1,0 +1,10 @@
+Package: com.86itsec.chfuckloc
+Name: CHFuckLoc
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: ch4r0n
+Author: ch4r0n
+Section: Tweaks
+Version: 0.0.1-12+debug
+Installed-Size: 136
